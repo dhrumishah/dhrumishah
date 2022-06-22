@@ -20,12 +20,13 @@
 <br>
 
 <a href="#DhrumiShah_stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrumishah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dhrumi Shah />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrumishah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dhrumi Shah" />
 </a>
+
 <br>
 
 <a href="#DhrumiShah_stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhrumishah&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Dhrumi Shah />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhrumishah&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Dhrumi Shah" />
 </a>
 <br>
 
