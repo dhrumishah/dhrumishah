@@ -79,6 +79,16 @@
 </tbody>
 <table>
 		   
-
-
+>Tools
+	
+<table>
+   <tbody>
+	  <tr>
+		  
+ <td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+        <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
+      </a>
+      <br>FIGMA
+  </td>
 
