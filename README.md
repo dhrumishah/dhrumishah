@@ -116,7 +116,7 @@ Functions are one of the major pillars of JavaScript. Many programming languages
 <a href="https://dhrumishah.hashnode.dev/conditional-statements-in-javascript" title="Conditional Statements in JavaScript"><strong>Conditional Statements in JavaScript</strong></a>
 <br/> Have you ever wondered how a computer game or program makes decisions? Or does it allow the user to decide what occurs next? There are various ways that we, as programmers, can control the flow... </p> <br/> <br/>
 
-	<div align="center">
+<div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
 <p><a href="https://dhrumishah.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
