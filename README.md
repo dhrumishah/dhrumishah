@@ -5,9 +5,9 @@
 <br>
 <div align="left">
 
-- 🕸️: &nbsp;Learning **JavaScript**
-- :writing_hand: &nbsp;I am Technical writer and Content Creator
-- :mailbox: &nbsp;Feel free to **reach** me out!
+- 🕸️:Learning **JavaScript**
+- :writing_hand:I am Technical writer and Content Creator
+- :mailbox:Feel free to **reach** me out!
 <!-- - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/dhrumi-shah-a35b751b9/)**
 - :bird: &nbsp;Creating content on **[Twitter](https://twitter.com/deetwts)** -->
  
@@ -15,7 +15,7 @@
 
 <h2>Connect with me at </h2>
 	
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
+<p align="center"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
 	
 <br>
 
