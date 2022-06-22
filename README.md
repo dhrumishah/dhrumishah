@@ -5,8 +5,8 @@
 <br>
 <div align="left">
 
-- 🕸️: &nbsp;I'm a **Web Developer**
-- :writing_hand: &nbsp;I am Technical writer at **[Hashnode](https://dhrumishah.hashnode.dev/)**
+- 🕸️: &nbsp;Learning **JavaScript**
+- :writing_hand: &nbsp;I am Technical writer and Content Creator
 - :mailbox: &nbsp;Feel free to **reach** me out!
 <!-- - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/dhrumi-shah-a35b751b9/)**
 - :bird: &nbsp;Creating content on **[Twitter](https://twitter.com/deetwts)** -->
