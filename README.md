@@ -49,27 +49,16 @@
 <br>
 	
 >Frontent Development
-    <table>
-	<tbody>		
-			     <tr>
-					<td align="center">
-						<span><strong>HTML</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-					</td>
-					<td align="center">
-						<span><strong>CSS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-					</td>
-					<td align="center">
-						<span><strong>Javascript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-					</td>
-				</tr>
-	           </tbody>
-		</table>
-
-
-
+   <table>
+   <tbody
+	  <tr>
+	<td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+     <a href="#dhrumi-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+  </td>
 
 
 
