@@ -43,8 +43,12 @@
     </td>
    </tr>
   </table>
+	
+<br>
+	
+  > Frontent Development
     <table>
-			<tbody>
+			
 				<tr>
 					<td align="center">
 						<span><strong>HTML</strong></span><br/>
@@ -59,7 +63,7 @@
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
 				</tr>
-			</tbody>
+			
 		</table>
 
 
