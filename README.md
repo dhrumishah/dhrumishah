@@ -2,11 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
 
-<a href="#DhrumiShah_profileViews">
-  <img src="https://komarev.com/ghpvc/?username=dhrumishah" alt="Dhrumi Shah" align="right" />
-</a>
-
-<!-- ![](https://komarev.com/ghpvc/?username=dhrumishah) -->
+![](https://komarev.com/ghpvc/?username=dhrumishah)
 
 <a href="#DhrumiShah_stats">
   <img src="https://github-readme-stats.vercel.app/api?username=dhrumishah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dhrumi Shah" align="right" />
