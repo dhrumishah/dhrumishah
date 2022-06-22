@@ -15,7 +15,7 @@
 
 <h2>Connect with me at </h2>
 	
-<p align="center"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
 	
 <br>
 
@@ -24,7 +24,7 @@
 </a>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhrumishah&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dhrumishah" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhrumishah&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dhrumishah" /></p>
   
   ## Tech Stack :computer:
   
