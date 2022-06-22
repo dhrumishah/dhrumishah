@@ -30,14 +30,13 @@
 		<table>
 			<tbody>
 				<tr>
-          <td width="25%" align="center">
-						<span><strong>Java</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>C++</strong></span><br/>
-						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
-          </td>
+					<td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+      </a>
+      <br>C Lang
+    </td>
+         
          <td align="center" width="25%">
       <a href="#Dhrumi-Tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
