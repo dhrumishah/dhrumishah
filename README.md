@@ -20,7 +20,7 @@
 <br>
 
 <a href="#DhrumiShah_stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrumishah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dhrumi Shah" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrumishah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dhrumi Shah />
 </a>
 <br>
 
