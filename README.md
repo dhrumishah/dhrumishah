@@ -1,5 +1,9 @@
 <h1 align="left" id="dhrumishah-title">:wave: Hey there! I am Dhrumi Shah</h1>
 
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
+
+<div align="center">
+
 - 🕸️: &nbsp;I'm a **Web Developer**
 - :writing_hand: &nbsp;I am Technical writer at **[Hashnode](https://dhrumishah.hashnode.dev/)**
 - :mailbox: &nbsp;Feel free to **reach** me out!
