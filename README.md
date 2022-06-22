@@ -69,12 +69,12 @@
   </td>
 	 
 	 
-	<td align="Center" width="25%">   
+<td align="Center" width="25%">   
         <a href="#dhrumi-tech" >
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </a>
       <br>JavaScript
-		</td>
+</td>
 </tr>
 </tbody>
 <table>
