@@ -59,6 +59,13 @@
       </a>
       <br>JavaScript
   </td>
+ <td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+     <a href="#dhrumi-tech">
+        <img src=""https://cdn.svgporn.com/logos/html-5.svg" width="48" height="48" alt="HTML-5" />
+      </a>
+      <br>HTML-5
+  </td>
 
 
 
