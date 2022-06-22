@@ -97,4 +97,15 @@
       </a>
       <br>GIT
   </td>
-
+</tr>
+</tbody>
+  </table>
+	
+<br>
+	
+### My Blog Posts 👇
+	
+<p align="left">
+<a href="https://dhrumishah.hashnode.dev/javascript-functions" title="JavaScript Functions"><img src="https://dhrumishah.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1652698703528%2FKZI074Zfh.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="JavaScript Functions" width="250px" align="left" /></a>
+<br/> JavaScript Functions
+Functions are one of the major pillars of JavaScript. Many programming languages support various paradigms, the most well-known of which being Object-Oriented and Functional Programming. Although JavaScript can be both. Today in this blog, we will un... </p> <br/> <br/>
