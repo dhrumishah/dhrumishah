@@ -55,7 +55,6 @@
 		  
  <td align="Center" width="25%">   
         <a href="#dhrumi-tech" >
-     <a href="#dhrumi-tech">
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </a>
       <br>HTML-5
@@ -64,7 +63,6 @@
 	 
  <td align="Center" width="25%">   
         <a href="#dhrumi-tech" >
-     <a href="#dhrumi-tech">
        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </a>
       <br>CSS-3
@@ -73,7 +71,6 @@
 	 
 	<td align="Center" width="25%">   
         <a href="#dhrumi-tech" >
-     <a href="#dhrumi-tech">
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </a>
       <br>JavaScript
