@@ -8,15 +8,15 @@
 - 🕸️: &nbsp;I'm a **Web Developer**
 - :writing_hand: &nbsp;I am Technical writer at **[Hashnode](https://dhrumishah.hashnode.dev/)**
 - :mailbox: &nbsp;Feel free to **reach** me out!
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/dhrumi-shah-a35b751b9/)**
-- :bird: &nbsp;Creating content on **[Twitter](https://twitter.com/deetwts)**
+<!-- - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/dhrumi-shah-a35b751b9/)**
+- :bird: &nbsp;Creating content on **[Twitter](https://twitter.com/deetwts)** -->
  
 <br>
 
-<h1>Connect with me at </h1>
-
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
-
+<h2>Connect with me at </h2>
+[![Twitter](https://img.shields.io/badge/-deetwts-black?style=flat-square&logo=twitter&logoColor=blue&link=https://www.twitter.com/deetwts/)](https://www.twitter.com/deetwts/)
+[![Linkedin](https://img.shields.io/badge/-Dhrumi%20Shah-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dhrumi-shah-a35b751b9/)](https://www.linkedin.com/in/dhrumi-shah-a35b751b9/)
+	
 <br>
 
 <a href="#DhrumiShah_stats">
