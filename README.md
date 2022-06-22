@@ -21,11 +21,9 @@
 
 <br>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumishah)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitsaurabh927&show_icons=true&locale=en&layout=compact&theme=onedark" alt="sumitsaurabh927" /></p>
   
-  <h1>**Connect me at:**</h1>
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dhrumishah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://dhrumishah.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dhrumi-shah-a35b751b9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/deetwts)  
+
   
   
  
