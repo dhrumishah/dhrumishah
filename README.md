@@ -13,7 +13,7 @@
  
 <br>
 
-	<h1>Connect with me at </h1>
+<h1>Connect with me at </h1>
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
 
