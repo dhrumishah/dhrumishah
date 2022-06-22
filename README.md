@@ -14,8 +14,8 @@
 <br>
 
 <h2>Connect with me at </h2>
-[![Twitter](https://img.shields.io/badge/-deetwts-black?style=flat-square&logo=twitter&logoColor=blue&link=https://www.twitter.com/deetwts/)](https://www.twitter.com/deetwts/)
-[![Linkedin](https://img.shields.io/badge/-Dhrumi%20Shah-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dhrumi-shah-a35b751b9/)](https://www.linkedin.com/in/dhrumi-shah-a35b751b9/)
+	
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
 	
 <br>
 
