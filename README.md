@@ -3,16 +3,6 @@
 ![](https://pbs.twimg.com/profile_banners/1509809837743357953/1655723049/1080x360)
 
 <br>
-
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
-
-<br>
-
-<a href="#DhrumiShah_stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrumishah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dhrumi Shah" align="right" />
-</a>
-
-<br>
 <div align="left">
 
 - 🕸️: &nbsp;I'm a **Web Developer**
@@ -21,9 +11,19 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/dhrumi-shah-a35b751b9/)**
 - :bird: &nbsp;Creating content on **[Twitter](https://twitter.com/deetwts)**
  
+<br>
+
+###Connect with me at :
+
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
 
 <br>
-  
+
+<a href="#DhrumiShah_stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrumishah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dhrumi Shah" align="right" />
+</a>
+<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhrumishah&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dhrumishah" /></p>
   
   ## Tech Stack :computer:
@@ -37,7 +37,7 @@
       <a href="#dhrumi-tech" >
         <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
       </a>
-      <br>C Lang
+      <br>C
     </td>
     <td align="Center" width="25%">
       <a href="#dhrumi-tech">
@@ -90,12 +90,6 @@
    <tbody>
 	  <tr>
 		  
- <td align="Center" width="25%">   
-        <a href="#dhrumi-tech" >
-        <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
-      </a>
-      <br>FIGMA
-  </td>
 		  <td align="Center" width="25%">   
         <a href="#dhrumi-tech" >
         <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">
