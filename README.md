@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
 
-<div align="center">
+<div align="left">
 
 - 🕸️: &nbsp;I'm a **Web Developer**
 - :writing_hand: &nbsp;I am Technical writer at **[Hashnode](https://dhrumishah.hashnode.dev/)**
