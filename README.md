@@ -25,9 +25,10 @@
   
   ## Tech Stack :computer:
   
-  > **Programming Languages**
+  > Programming Languages
   
  <table>
+	 <tbody>
   <tr>
    <td align="Center" width="25%"> 
       <a href="#dhrumi-tech" >
@@ -42,6 +43,7 @@
       <br>Python
     </td>
    </tr>
+</tbody>
   </table>
 	
 <br>
@@ -49,7 +51,7 @@
   > Frontent Development
     <table>
 	<tbody>		
-				<tr>
+			     <tr>
 					<td align="center">
 						<span><strong>HTML</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
