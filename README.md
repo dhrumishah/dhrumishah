@@ -25,7 +25,7 @@
   
   ## Tech Stack :computer:
   
-  > Programming Languages
+>Programming Languages
   
  <table>
 	 <tbody>
@@ -48,7 +48,7 @@
 	
 <br>
 	
-  > Frontent Development
+>Frontent Development
     <table>
 	<tbody>		
 			     <tr>
