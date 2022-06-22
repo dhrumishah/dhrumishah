@@ -5,9 +5,11 @@
 <br>
 <div align="left">
 
-- 🕸️:Learning **JavaScript**
-- :writing_hand:I am Technical writer and Content Creator
-- :mailbox:Feel free to **reach** me out!
+<h2> Intro </h2>
+	
+🕸️:Learning **JavaScript**
+:writing_hand:I am Technical writer and Content Creator
+:mailbox:Feel free to **reach** me out!
 <!-- - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/dhrumi-shah-a35b751b9/)**
 - :bird: &nbsp;Creating content on **[Twitter](https://twitter.com/deetwts)** -->
  
