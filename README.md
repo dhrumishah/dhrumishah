@@ -95,6 +95,6 @@
         <a href="#dhrumi-tech" >
         <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">
       </a>
-      <br>FIGMA
+      <br>GIT
   </td>
 
