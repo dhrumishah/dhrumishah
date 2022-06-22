@@ -25,7 +25,7 @@
   
   ## Tech Stack :computer:
   
-  > Programming Languages
+  > **Programming Languages**
   
  <table>
   <tr>
