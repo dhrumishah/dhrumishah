@@ -5,7 +5,7 @@
 <br>
 <div align="left">
 
-<h2> Intro </h2>
+<h2> Who am I? </h2>
 	
 - 🕸️:Learning **JavaScript**
 - :writing_hand:I am Technical writer and Content Creator
