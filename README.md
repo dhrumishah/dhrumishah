@@ -29,14 +29,14 @@
   
  <table align="center">
   <tr>
-   <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
+   <td align="Left" width="25%"> 
+      <a href="#dhrumi-tech" >
         <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
       </a>
       <br>C Lang
     </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+    <td align="Left" width="25%">
+      <a href="#dhrumi-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
