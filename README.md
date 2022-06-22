@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
 
-![](https://komarev.com/ghpvc/?username=dhrumishah)
-
 <a href="#DhrumiShah_stats">
   <img src="https://github-readme-stats.vercel.app/api?username=dhrumishah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dhrumi Shah" align="right" />
 </a>
@@ -122,3 +120,5 @@ Functions are one of the major pillars of JavaScript. Many programming languages
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
 <p><a href="https://dhrumishah.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
+
+![](https://komarev.com/ghpvc/?username=dhrumishah)
