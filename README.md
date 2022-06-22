@@ -87,7 +87,7 @@
 		  
  <td align="Center" width="25%">   
         <a href="#dhrumi-tech" >
-        <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
+        <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
       </a>
       <br>FIGMA
   </td>
