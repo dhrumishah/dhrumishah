@@ -13,7 +13,7 @@
  
 <br>
 
-###Connect with me at :
+	<h1>Connect with me at </h1>
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
 
@@ -88,9 +88,9 @@
 	
 <table>
    <tbody>
-	  <tr>
+	 <tr>
 		  
-		  <td align="Center" width="25%">   
+<td align="Center" width="25%">   
         <a href="#dhrumi-tech" >
         <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">
       </a>
