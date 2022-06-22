@@ -1,13 +1,16 @@
 <h1 align="left" id="dhrumishah-title">:wave: Hey there! I am Dhrumi Shah</h1>
 
 ![](https://pbs.twimg.com/profile_banners/1509809837743357953/1655723049/1080x360)
+<br>
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
+<br>
 
 <a href="#DhrumiShah_stats">
   <img src="https://github-readme-stats.vercel.app/api?username=dhrumishah&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dhrumi Shah" align="right" />
 </a>
 
+<br>
 <div align="left">
 
 - 🕸️: &nbsp;I'm a **Web Developer**
