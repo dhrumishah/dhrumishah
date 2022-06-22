@@ -78,10 +78,10 @@
       </a>
       <br>JavaScript
 		</td>
-	   </tr>
-	   </tbody>
-	   <table>
+</tr>
+</tbody>
+<table>
 		   
-<br>
+
 
 
