@@ -61,7 +61,7 @@
 	
 <br>
 	
->Frontent Development
+>Front-End Development
    <table>
    <tbody>
 	  <tr>
