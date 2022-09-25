@@ -7,7 +7,7 @@
 
 <h2> Who am I? </h2>
 	
-- 🕸️ Learning **JavaScript**
+- 👩🏽‍💻 Frontend Developer
 - :writing_hand: Technical Blogger on **Hashnode**
 - 📔 Loves creating content on **Twitter**
 - 🎾 Tennis Player
