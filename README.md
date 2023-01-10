@@ -87,7 +87,7 @@
         <a href="#dhrumi-tech" >
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </a>
-      <br>Readux
+      <br>Redux
 </td>
 
 <td align="Center" width="25%">   
