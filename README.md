@@ -16,6 +16,11 @@
 - :bird: &nbsp;Creating content on **[Twitter](https://twitter.com/deetwts)** -->
  
 <br>
+	
+## Resume 
+<a href="https://drive.google.com/file/d/1ui2QweOPxkg2b7rXa3NcRjZ1JpCTV5vj/view">
+<img width= "100px" height="100px" src="https://tse2.mm.bing.net/th?id=OIP.8HWftduHM6wLSSURJTlD9wEODn&pid=Api&P=0" />
+</a>
 
 <h2>Connect with me at </h2>
 	
