@@ -19,7 +19,7 @@
 	
 ## Resume 
 <a href="https://drive.google.com/file/d/1ui2QweOPxkg2b7rXa3NcRjZ1JpCTV5vj/view">
-<img width= "100px" height="100px" src="https://tse2.mm.bing.net/th?id=OIP.8HWftduHM6wLSSURJTlD9wEODn&pid=Api&P=0" />
+<img width= "100px" height="100px" src="https://cutewallpaper.org/cdn-cgi/mirage/dd19f2d06ebc24f541f142b37b4289ffa7de722a7607e39984c5c6dd4ce8defd/1280/24/google-drive-logo-png/google-drive-logos.jpeg" />
 </a>
 
 <h2>Connect with me at </h2>
