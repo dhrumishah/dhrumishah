@@ -30,7 +30,7 @@
 
 ## Tech Stack :computer:
   
->Programming Languages
+> Languages
   
  <table>
 	 <tbody>
@@ -47,36 +47,22 @@
       </a>
       <br>Python
     </td>
-   </tr>
-</tbody>
-  </table>
-	>Frontent Development
-   <table>
-   <tbody>
-	  <tr>
-		  
- <td align="Center" width="25%">   
-        <a href="#dhrumi-tech" >
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </a>
-      <br>HTML-5
-  </td>
-	 
-	 
- <td align="Center" width="25%">   
-        <a href="#dhrumi-tech" >
-       <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </a>
-      <br>CSS-3
-  </td>
-	 
-	 
-<td align="Center" width="25%">   
+    <td align="Center" width="25%">   
         <a href="#dhrumi-tech" >
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </a>
       <br>JavaScript
 </td>
+   </tr>
+</tbody>
+  </table>
+  
+  > Frameworks
+  
+   <table>
+   <tbody>
+	  <tr>
+	
 <td align="Center" width="25%">   
         <a href="#dhrumi-tech" >
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
@@ -95,6 +81,13 @@
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
       </a>
       <br>Tailwind CSS
+</td>
+
+<td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/threejs.svg">
+      </a>
+      <br>Three.js
 </td>
 
 
