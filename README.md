@@ -72,6 +72,27 @@
       </a>
       <br>JavaScript
 </td>
+<td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </a>
+      <br>ReactJS
+</td>
+<td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </a>
+      <br>Readux
+</td>
+
+<td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
+      </a>
+      <br>Tailwind CSS
+</td>
+
+
 </tr>
 </tbody>
 <table>
