@@ -23,6 +23,8 @@
 <h2>Connect with me at </h2>
 	
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=deetwts" target="blank"><img src="https://img.shields.io/twitter/follow/deetwts?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
+
+[![Linkedin](https://img.shields.io/badge/-Dhrumi%20Shah-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dhrumishah15/)](https://www.linkedin.com/in/dhrumishah15/)
 	
 <br>
 
