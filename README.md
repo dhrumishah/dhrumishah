@@ -5,7 +5,7 @@
 <br>
 <div align="left">
 
-<h2> Who am I? </h2>
+<h2> A day into my life 💭 </h2>
 	
 - I start and end my day with handling pixels on screen, yep! I am a frontend developer👩🏽‍💻
 - Have React in my breakfast, Tailwind CSS in lunch and eh! Redux in dinner 🥂
