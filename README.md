@@ -78,7 +78,7 @@
 
 <td align="Center" width="25%">   
         <a href="#dhrumi-tech" >
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
+       <img height="64px" width="64px" src="https://img.icons8.com/color/96/null/tailwindcss.png"/>
       </a>
       <br>Tailwind CSS
 </td>
