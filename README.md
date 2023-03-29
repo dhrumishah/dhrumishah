@@ -16,8 +16,8 @@
 <br>
 	
 ## Resume 
-<a href="https://drive.google.com/file/d/1ui2QweOPxkg2b7rXa3NcRjZ1JpCTV5vj/view">
-<img width= "100px" height="100px" src="https://cutewallpaper.org/cdn-cgi/mirage/dd19f2d06ebc24f541f142b37b4289ffa7de722a7607e39984c5c6dd4ce8defd/1280/24/google-drive-logo-png/google-drive-logos.jpeg" />
+<a href="https://drive.google.com/file/d/1ntxC6mg2Pf9LG_OcCDHzZQzkbTjjrI0S/view">
+<img src="https://img.icons8.com/color/96/null/google-drive--v2.png"/>
 </a>
 
 <h2>Connect with me at </h2>
@@ -88,6 +88,12 @@
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/threejs.svg">
       </a>
       <br>Three.js
+</td>
+		  <td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+        <img  height="64px" width="64px" src="https://img.icons8.com/color/96/null/typescript.png"/>
+      </a>
+      <br>TypeScript
 </td>
 
 
