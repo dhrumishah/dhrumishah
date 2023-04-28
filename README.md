@@ -1,6 +1,6 @@
 <h1 align="left" id="dhrumishah-title">:wave: Hey there! I am Dhrumi Shah</h1>
 
-![](https://pbs.twimg.com/profile_banners/1509809837743357953/1655723049/1080x360)
+<!-- ![](https://pbs.twimg.com/profile_banners/1509809837743357953/1655723049/1080x360) -->
 
 <br>
 <div align="left">
