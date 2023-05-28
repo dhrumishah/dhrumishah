@@ -8,7 +8,7 @@
 <h2> A day in my life 💭 </h2>
 	
 - I start and end my day with handling pixels on screen, yep! I am a frontend developer👩🏽‍💻
-- Have React and TypeScript in my breakfast, Tailwind CSS in lunch and eh! Redux in dinner 🥂
+- Have React and TypeScript in my breakfast, Tailwind CSS and Next.js in lunch and eh! Redux in dinner 🥂
 - In my brunch, I tried out technologies like Three.js, Framer-motion and Firebase 🍽️
 - Building projects just like having water in a day, yes! I drink and build a lot 🥤🏗️
 - Can't rest my ass all day in chair so I do aerobics every day🤸🏽‍♀️
