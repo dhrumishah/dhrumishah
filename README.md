@@ -16,7 +16,7 @@
 <br>
 	
 ## Resume 
-<a href="https://drive.google.com/file/d/1ntxC6mg2Pf9LG_OcCDHzZQzkbTjjrI0S/view">
+<a href="https://drive.google.com/file/d/1c-K3bwkWcVQDsvj-VP9jx9KDZVZnPDEw/view">
 <img src="https://img.icons8.com/color/96/null/google-drive--v2.png"/>
 </a>
 
