@@ -30,5 +30,4 @@ Software Engineer 1 | Backend & Full-stack Developer
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/dhrumishah15/) •
-[GitHub](https://github.com/dhrumishah)
+[LinkedIn](https://www.linkedin.com/in/dhrumishah15/)
